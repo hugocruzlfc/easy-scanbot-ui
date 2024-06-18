@@ -1,6 +1,6 @@
 import { List, QrCode, ScanLine } from "lucide-react";
 import { useNavigate } from "react-router-dom";
-import { FeatureListItem, NavBar } from "./conmponents";
+import { FeatureListItem, NavBar } from "./components";
 import { useScanbot } from "./hooks";
 
 function App() {
